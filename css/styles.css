@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  position: relative;
+}
+.h:hover {
+  background-color: red;
+}
+.Bio{
+    background-color: grey;
+    width: 33%;
+    height: 200px;
+  position: absolute;
+
+}
+.Photo{
+  background-color: #8879B0;
+  width: 34%;
+  height: 200px;
+  position: absolute;
+left: 66%;
+}
+
+.educ{
+    background-color: #FBC5C5;
+  width: 33%;
+  height: 200px;
+  position: absolute;
+left: 33%;
+top: 200px;
+}
+.Hobbies{
+    background-color: #A10035;
+      width: 33%;
+    height: 200px;
+  position: absolute;
+top: 400px;
+}
+.Contact{
+    background-color:#FF9F29;
+      width: 34%;
+    height: 200px;
+  position: absolute;
+top: 400px;
+left: 66%;
+}
+p{padding-top: 80px;
+  text-align: center;
+  font-style: timesnewroman;
+  font-weight: bold;
+
+}
+a{
+  color: black;
+}
